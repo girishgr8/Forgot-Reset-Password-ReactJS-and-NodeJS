@@ -1,0 +1,38 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Forgot & Reset Password with ReactJS and NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girishgr8/Forgot-Reset-Password-ReactJS-and-NodeJS.git"
+  },
+  "keywords": [
+    "Forgot and Reset Password using ReactJS and NodeJS",
+    "ReactJS",
+    "NodeJS"
+  ],
+  "author": "Girish Thatte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girishgr8/Forgot-Reset-Password-ReactJS-and-NodeJS/issues"
+  },
+  "homepage": "https://github.com/girishgr8/Forgot-Reset-Password-ReactJS-and-NodeJS#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mysql2": "^3.9.2",
+    "nodemailer": "^6.9.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
