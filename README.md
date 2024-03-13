@@ -52,6 +52,8 @@ npm start
 
 ## Demo :
 
+![Demo](https://github.com/girishgr8/Forgot-Reset-Password-ReactJS-and-NodeJS/blob/main/demo.gif)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/girishgr8/Forgot-Reset-Password-ReactJS-and-NodeJS/blob/main/LICENSE "LICENSE") file for details.
