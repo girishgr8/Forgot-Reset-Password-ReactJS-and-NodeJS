@@ -42,7 +42,7 @@ npm start
 Open another terminal and type the below command:
 
 ```bash
-# Go inside the backend folder
+# Go inside the frontend folder
 cd frontend
 # Start the React App
 npm start
