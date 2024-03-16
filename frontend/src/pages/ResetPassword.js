@@ -44,9 +44,7 @@ const ResetPassword = () => {
           autoClose: 5000,
           position: "top-right",
         });
-        setTimeout(() => {
-          navigate("/login");
-        }, 2000);
+        navigate("/login");
       }
     }
   };
