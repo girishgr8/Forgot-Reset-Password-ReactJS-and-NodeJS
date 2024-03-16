@@ -4,7 +4,9 @@
 
 ## About
 
-**"Forgot and Reset Password using ReactJS and NodeJS"** is a full stack application developed using MERN stack (here I used MySQL instead of MongoDB), which allows the user to reset the password. The user receives a "Forgot Password Link" on the email id and the user can click on that link and set new password for his account. I have published a step by step article using this project on GeeksForGeeks. You can click here to view.
+**"Forgot and Reset Password using ReactJS and NodeJS"** is a full stack application developed using MERN stack (here I used MySQL instead of MongoDB), which allows the user to reset the password. The user receives a "Forgot Password Link" on the email id and the user can click on that link and set new password for his account.
+
+**I have published a step by step article using this project on GeeksForGeeks. You can click [HERE](https://www.geeksforgeeks.org/forgot-reset-password-feature-with-react-and-node-js/ "Article Link") to view.**
 
 ## Quick Start
 
@@ -50,12 +52,12 @@ npm start
 
 ##### NOTE: Backend(Node) runs on [http://localhost:4000](http://localhost:4000 "NodeJS Backend") and Frontend(React) on [http://localhost:3000](http://localhost:3000 "ReactJS Frontend").
 
-## Demo :
+## Demo
 
 ![Demo](https://github.com/girishgr8/Forgot-Reset-Password-ReactJS-and-NodeJS/blob/main/demo.gif)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/girishgr8/Forgot-Reset-Password-ReactJS-and-NodeJS/blob/main/LICENSE "LICENSE") file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/girishgr8/Forgot-Reset-Password-ReactJS-and-NodeJS/blob/main/LICENSE "LICENSE") file for details.
 
 <h1 align="center"><b>Developed with :heart: by <a href="https://girishgr8.github.io/" target="_blank">Girish Thatte</a></b></h1>
