@@ -18,7 +18,7 @@ router.post("/forgotPassword", async (req, res) => {
     if (!user || user.length === 0) {
       res.json({
         success: false,
-        message: "Your are not registered!",
+        message: "You are not registered yet!",
       });
     } else {
       const token = crypto.randomBytes(20).toString("hex");
