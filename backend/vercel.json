@@ -3,23 +3,13 @@
   "builds": [
     {
       "src": "./server.js",
-      "use": "@now/node-server"
+      "use": "@vercel/node"
     }
   ],
   "routes": [
     {
-      "src": "/api/forgotPassword",
-      "methods": ["POST"],
-      "dest": "./routes/route.js"
-    },
-    {
-      "src": "/api/resetPassword",
-      "methods": ["POST"],
-      "dest": "./routes/route.js"
-    },
-    {
-      "src": "/.*",
-      "dest": "server.js"
+      "src": "/(.*)",
+      "destination": "/"
     }
   ]
 }
